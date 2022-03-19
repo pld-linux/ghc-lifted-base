@@ -7,7 +7,7 @@ Summary:	Lifted IO operations from the base library
 Summary(pl.UTF-8):	Operacje IO podniesione z biblioteki base
 Name:		ghc-%{pkgname}
 Version:	0.2.3.12
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/lifted-base
